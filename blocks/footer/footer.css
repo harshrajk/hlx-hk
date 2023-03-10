@@ -1,3 +1,6 @@
+:root{
+  --overlay-background-color: rgb(46, 46, 98);
+}
 footer {
   padding: 2rem;
   background-color: var(--overlay-background-color);
